@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sadiartusar/sadiartusar/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/sadiartusar/sadiartusar/f714b4718cabc72d9289d1b9891f4a48ae1c1c6f/snake.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sadiartusar/sadiartusar/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/sadiartusar/sadiartusar/f714b4718cabc72d9289d1b9891f4a48ae1c1c6f/snake.svg" />
   <img alt="github-snake"
-    src="https://raw.githubusercontent.com/sadiartusar/sadiartusar/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
+    src="https://raw.githubusercontent.com/sadiartusar/sadiartusar/f714b4718cabc72d9289d1b9891f4a48ae1c1c6f/snake.svg" />
 </picture>
 
 <h1 align="center">Hi, I'm Sadiar Rahman</h1>
